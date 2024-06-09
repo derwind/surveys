@@ -1,4 +1,4 @@
-# TensorNetwork for Machine Learning
+# Tensorizing Neural Networks
 
 論文: [https://arxiv.org/abs/1509.06569](https://arxiv.org/abs/1509.06569) [22 Sep 2015]
 
