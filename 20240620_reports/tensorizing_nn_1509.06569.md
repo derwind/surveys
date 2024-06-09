@@ -6,7 +6,7 @@
 （まとめ @derwind）
 
 - 著者
-    - Alexander Novikov ${}^{1,4} Dmitry Podoprikhin ${}^1$ Anton Osokin ${}^2$ Dmitry Vetrov ${}^{1,3}$
+    - Alexander Novikov ${}^{1,4}$ Dmitry Podoprikhin ${}^1$ Anton Osokin ${}^2$ Dmitry Vetrov ${}^{1,3}$
 - 所属
     - ${}^1$ Skolkovo Institute of Science and Technology, Moscow, Russia
     - ${}^2$ INRIA, SIERRA project-team, Paris, France
@@ -24,7 +24,7 @@
 
 **既存手法**
 
-- 低ランク近似 (e.g., $W = AB$; $W \in \operatorname{Mat}(m,n)$ 行列（パラメータ数: $mn$）を $A \in \operatorname{Mat}(m,r)$ と $B \in \operatorname{Mat}(r,n)$ （パラメータ数: $r (m + n)$）に分解 / SVD: $W = U \Sigma V^\dagger$)
+- 低ランク近似 (e.g., $W = AB$; $W \in Mat(m,n)$ 行列（パラメータ数: $mn$）を $A \in Mat(m,r)$ と $B \in Mat(r,n)$ （パラメータ数: $r (m + n)$）に分解 / SVD: $W = U \Sigma V^\dagger$)
 
 - ハッシュ技術: 全結合層の要素 $\{ a_{ij} \}$ をハッシュ関数でグループ化して、グループごとに値を共有する（重み共有）
 
