@@ -47,7 +47,7 @@
 
 [参考: 概念図]
 
-![](tensorizing_nn_1509.06569/tensor_train.png)
+<img width="300" src="tensorizing_nn_1509.06569/tensor_train.png">
 
 ## どうやって有効だと検証した？
 
