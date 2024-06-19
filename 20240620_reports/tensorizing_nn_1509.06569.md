@@ -66,7 +66,7 @@
 
 VGG の全結合層を設定したランク (1, 2, 4) のテンソルにまで分解した時のエラー率を観察:
 
-![](tensorizing_nn_1509.06569/imagenet_performance.png)
+<img width="500" src="tensorizing_nn_1509.06569/imagenet_performance.png">
 
 ## 議論はある？
 
@@ -83,4 +83,4 @@ VGG の全結合層を設定したランク (1, 2, 4) のテンソルにまで�
 
 Stanford の「Tiny-Imagenet-200」という 64x64 のサイズの画像からなる 200 クラスのデータセットを用いた。
 
-![](tensorizing_nn_1509.06569/tiny_imagenet.png)
+<img width="500" src="tensorizing_nn_1509.06569/tiny_imagenet.png">
